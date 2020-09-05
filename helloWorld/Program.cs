@@ -16,7 +16,11 @@ using System;
             Console.WriteLine("Hello world");
             Console.ReadKey();
             //add Japanese to explore branching and pull requests further
-            Console.WriteLine("minasan konnichiwa");
+            Console.WriteLine("chikyu konnichiwa");
+            Console.ReadKey();
+            //lots of people speak Spanish so greet them too
+            Console.WriteLine("Ola Mundo!");
+            Console.WriteLine();
         }
 
     }
