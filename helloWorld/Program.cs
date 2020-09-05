@@ -17,7 +17,6 @@ using System;
             Console.ReadKey();
             //add Japanese to explore branching and pull requests further
             Console.WriteLine("minasan konnichiwa");
-            Console.ReadKey();
         }
 
     }
